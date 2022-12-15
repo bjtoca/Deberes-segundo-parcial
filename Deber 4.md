@@ -318,6 +318,25 @@ RTH = 48 Æ, R4 = 160 Æ
 
 ![image](https://user-images.githubusercontent.com/117947312/207776022-857f02a7-cdb5-478b-9f52-4e89333d5e32.png)
 
+VIDEO (https://youtu.be/RYb9VWfbB_8)
+
+CONCLUSIONES.
+
+Se determinó la relación entre voltaje, corriente y resistencia y se aplico en distintos casos por medio de la ley de ohm.
+
+Se comprendió la importancia de la conversión de valores en este tipo de ejercicios.
+
+se entendió la proporción que tiene la corriente, voltaje y resistencia.
+
+BIBLIOGRAFIA.
+
+Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
+
+Sistema Internacional de Unidades y conversiones. (2019, enero 24). MateMovil; Matemóvil. https://matemovil.com/sistema-internacional-de-unidades-y-conversiones/
+
+Tomé, C. (2020, junio 23). El núcleo atómico — Cuaderno de Cultura Científica. Cuaderno de Cultura Científica. https://culturacientifica.com/2020/06/23/el-nucleo-atomico/
+
+UNIDADES DEL SISTEMA INTERNACIONAL DE MEDIDA “SI”. (2012, diciembre 15). Solo Formulas. https://soloformulas.com/unidades-del-sistema-internacional-de-medida-si.html
 
 
 
