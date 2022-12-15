@@ -318,7 +318,7 @@ RTH = 48 Æ, R4 = 160 Æ
 
 ![image](https://user-images.githubusercontent.com/117947312/207776022-857f02a7-cdb5-478b-9f52-4e89333d5e32.png)
 
-VIDEO (https://youtu.be/RYb9VWfbB_8)
+VIDEO https://youtu.be/phKJsJdzCy4
 
 CONCLUSIONES.
 
