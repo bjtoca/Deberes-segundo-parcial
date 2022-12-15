@@ -4,7 +4,7 @@ NOMBRE: Brando Toca
 
 NRC: 10067
 
-Informe Tarea 1.
+Informe Tarea 1 Segundo Parcial
 
 Objetivos
 
@@ -21,3 +21,12 @@ Objetivos específicos.
 MARCO TEÓRICO
 
 Mapas Conceptuales.
+
+![Cómic 4 Viñetas  en Blanco Rectángulos](https://user-images.githubusercontent.com/117947312/207766314-3e2ce1c0-7e50-4b52-9dca-ea2f80702a8d.png)
+
+![4 Viñetas de Cómic En Blanco](https://user-images.githubusercontent.com/117947312/207766346-37a5b52f-404d-4b1e-9ad4-68acd4cfee6f.png)
+
+![4 Viñetas de Cómic En Fila En Blanco](https://user-images.githubusercontent.com/117947312/207766423-38c45519-e248-45a3-ae68-636c29e09725.png)
+
+![Cómic 4 Viñetas  en Blanco Rectángulos (1)](https://user-images.githubusercontent.com/117947312/207766437-4b8812ae-aa09-45d8-b04a-6b41e6b6fc02.png)
+
