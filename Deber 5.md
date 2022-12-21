@@ -4,7 +4,7 @@ NOMBRE: Brando Toca
 
 NRC: 10067
 
-Informe Tarea 2.
+Informe Tarea 5.
 
 Objetivos
 
@@ -15,6 +15,14 @@ Objetivos específicos.
 •	 Entender la proporción de intensidad y voltaje y voltaje con resistencia, para saber como funciona la electricidad y como funciona los corto circuitos.
 
 MARCO TEÓRICO
+
+![Cómic 4 Viñetas  en Blanco Rectángulos (2)](https://user-images.githubusercontent.com/117947312/209016166-bd4efbe7-edac-470c-ac78-f923d96e6414.png)
+
+![4 Viñetas de Cómic En Blanco (1)](https://user-images.githubusercontent.com/117947312/209016193-28948f80-5b04-4342-a7b8-0e98f7c9384f.png)
+
+![Cómic de 4 Viñetas En Blanco](https://user-images.githubusercontent.com/117947312/209016204-be0012a8-4543-40df-bbaf-f998d40e6c9d.png)
+
+![4 Viñetas de Cómic En Blanco (2)](https://user-images.githubusercontent.com/117947312/209016222-06b27f8a-ae6a-415c-8955-ed77264dcb1b.png)
 
 EJERCICIOS 
 
