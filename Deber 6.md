@@ -17,3 +17,7 @@ Objetivos específicos.
 MARCO TEÓRICO
 
 Mapas Conceptuales.
+
+![2](https://user-images.githubusercontent.com/117947312/211113600-60ec2e59-eeae-4c79-9a27-c02023b38f1c.png)
+
+![1](https://user-images.githubusercontent.com/117947312/211113616-25e44050-cb66-49b6-b441-a45eb9d90e80.png)
