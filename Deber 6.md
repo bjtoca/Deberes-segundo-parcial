@@ -142,5 +142,93 @@ Vp = 600 mV, T = 500 ms
 
 Vp(ent) = 4.44 V, fent = 2 Hz
 
+CAPITULO 12.
+
+1. (a) Encuentre la capacitancia cuando Q 5 50 mC y V 5 10 V.
+(b) Determine la carga cuando C 5 0.001 mF y V 5 1 kV.
+(c) Determine el voltaje cuando Q 5 2 mC y C 5 200 mF.
+
+(a) (b) (c) 10 V
+3. Transforme los siguientes valores de picofarads a microfarads:
+(a) 1000 pF (b) 3500 pF (c) 250 pF
+
+5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
+
+(a) aire (b) aceite (c) vidrio (d) Teflón®
+
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.53 1024 m. Calcule la capacitancia.
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er 5 2.5) de 8 3 1025 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros
+capacitores?
+
+19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/117947312/211116426-be8eec43-ad91-4c18-9e20-c984e5496825.png)
+
+21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![image](https://user-images.githubusercontent.com/117947312/211116485-a2ac3b53-97ab-494d-8b67-930680b1dc24.png)
+
+23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+25. Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/117947312/211116537-950de413-8a13-4b47-af02-d9c371a3a22e.png)
+
+27. Determine la CT para cada circuito de la figura 12-72.
+
+![image](https://user-images.githubusercontent.com/117947312/211116609-ed9f346b-fa47-483c-97ac-70234c0cd55e.png)
+
+29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+
+(b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/117947312/211116710-c2812c2a-4970-4484-b83c-4a22f19c0698.png)
+
+31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje pre-
+sente en el capacitor en los instantes posteriores?
+
+![image](https://user-images.githubusercontent.com/117947312/211117148-bcdc2e15-55f1-4e99-a469-e45c08d42d6d.png)
+
+35. Repita el problema 33 con los siguientes tiempos:
+
+37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/117947312/211117224-57cdff7e-ab01-4ce3-80d4-130a55f6325e.png)
+
+39. Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/117947312/211117258-224abf05-1641-4659-beaf-f7c7608cb196.png)
+
+41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+![image](https://user-images.githubusercontent.com/117947312/211117324-65524e69-d010-4c85-a3ca-96a35f326867.png)
+
+43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+![image](https://user-images.githubusercontent.com/117947312/211117766-0cb2209b-cc14-40f5-96d3-31f6f6b8a310.png)
+
+45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+49. Determine el valor de C1 en la figura 12-82.
+
+
+
+
+
+
+
 
 
