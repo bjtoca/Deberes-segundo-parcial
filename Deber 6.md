@@ -224,6 +224,22 @@ sente en el capacitor en los instantes posteriores?
 
 49. Determine el valor de C1 en la figura 12-82.
 
+VIDEO https://youtu.be/FxECcMV0MnM
+
+CONCLUSIONES.
+
+Se determinó la relación entre la ley de KIRCHHOFF y voltaje, corriente y resistencia y se aplico en distintos casos por medio de la ley de ohm.
+
+Se comprendió la importancia de implementar las fórmulas aprendidas.
+
+se entendió la proporción que tiene la corriente, voltaje y resistencia.
+
+BIBLIOGRAFIA.
+
+Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
+
+Sistema Internacional de Unidades y conversiones. (2019, enero 24). MateMovil; Matemóvil. https://matemovil.com/sistema-internacional-de-unidades-y-conversiones/
+
 
 
 
